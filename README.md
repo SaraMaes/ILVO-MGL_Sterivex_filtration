@@ -1,1 +1,1 @@
-# ILVO-MGL_Sterivex_filtration
+# ILVO-MGL_eDNA_Sterivex_filtration
