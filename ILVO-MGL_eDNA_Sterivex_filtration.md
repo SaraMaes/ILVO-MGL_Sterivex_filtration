@@ -57,7 +57,7 @@ samp_size_unit: # mL
 
 | PREPARED BY  | AFFILIATION  | ORCID        | DATE       |
 | ------------ | ------------ | ------------ | ---------- |
-| Content Cell | Content Cell | Content Cell | yyyy-mm-dd |
+| Sara Maes | Content Cell | Content Cell | yyyy-mm-dd |
 | Content Cell | Content Cell | Content Cell | yyyy-mm-dd |
 
 ### Related Protocols
