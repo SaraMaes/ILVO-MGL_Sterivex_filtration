@@ -4,7 +4,7 @@ methodology_category: sample collection
 project: ILVO Marine Genomics Laboratory Group protocols
 purpose: biodiversity assessment objective [OBI:0001969]
 analyses: filtration [OBI:0302885], environmental material collection process [OBI:0600012]
-geographic_location: # Atlantic Ocean [GAZ:00000344], Gulf of Mexico [GAZ:00002853]
+geographic_location: North Sea [GAZ:00002284], Southern Bight [GAZ:00050972]
 broad_scale_environmental_context: # marine biome [ENVO:00000447], marine photic zone [ENVO:00000209]
 local_environmental_context: # marine biome [ENVO:00000447], marine photic zone [ENVO:00000209]
 environmental_medium: # sea water [ENVO:00002149]
