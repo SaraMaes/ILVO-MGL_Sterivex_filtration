@@ -86,8 +86,11 @@ samp_size_unit: # mL
 
 | ACRONYM / ABBREVIATION | DEFINITION |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ILVO  | Flanders Research Institute for Agriculture, Fisheries and Food  |
+|  DNA | Deoxyribonucleic acid  |
+| eDNA | environmental DNA |
+| EtOH | Ethanol |
+| | |
 
 ### Glossary
 
