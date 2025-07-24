@@ -6,7 +6,7 @@ purpose: biodiversity assessment objective [OBI:0001969]
 analyses: filtration [OBI:0302885], environmental material collection process [OBI:0600012]
 geographic_location: North Sea [GAZ:00002284], Southern Bight [GAZ:00050972]
 broad_scale_environmental_context: marine biome [ENVO:00000447], marine photic zone [ENVO:00000209], neritic pelagic zone biome [ENVO:01000032]
-local_environmental_context: # marine biome [ENVO:00000447], marine photic zone [ENVO:00000209]
+local_environmental_context: coastal sea water [ENVO:03605019]
 environmental_medium: # sea water [ENVO:00002149]
 target: deoxyribonucleic acid (DNA) [NCIT:C449]
 creator: # names separated by commas
