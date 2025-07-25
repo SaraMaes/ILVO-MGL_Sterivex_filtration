@@ -161,8 +161,9 @@ Specify how much time is necessary to execute the procedure.
 | Writing utensils | Pencil and permanent marker | Generic | 2 | Not made of wood - must be able to be wiped down with bleach/EtOH |
 
 | **Chemicals** |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
+| Ethanol absolute | Ethanol absolute | AnalytiChem |5 L| Can be substituted with generic, must be molecular biology grade |
+| Disolol | Disolol Technisolv | AnalytiChem | 5 L | Can be sustituted with generic |
+| 10% bleach | Sodium hypochloride | Colruyt | 2 L| Remake every ~5 days as bleach decomposes quickly at 10% concentration |
 
 ## STANDARD OPERATING PROCEDURE
 
@@ -174,6 +175,12 @@ Provide a step-by-step description of the protocol. The identification of diffic
 
 Please specify the preparatory actions you took before you collected the samples and note what equipment was needed to do so (e.g. disinfection of work surfaces, preparations to the equipment you intend to use later on).
 
+Glove Sterilization: Sterile nitrile gloves must be worn at all times during the sterilization, sampling, filtering, preservation and storage steps. Gloves directly from the box are not considered sterile. To sterilize, put on a new pair of gloves, squirt 10% bleach solution from a wash bottle onto the gloves and rub hands together, then squirt with EtOH to get rid of bleach residue.  
+
+Benchspace sterilization: Clean the benchspace with 10% bleach, whipe down with a paper towl, then clean the surface with 70% Ethanol and whipe down.
+
+Masterflex tubing sterilization: 
+1
 1. [Step 1]
 2. [Step 2]
 
