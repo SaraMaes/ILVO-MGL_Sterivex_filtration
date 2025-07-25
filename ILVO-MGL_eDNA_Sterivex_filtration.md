@@ -144,11 +144,22 @@ Specify how much time is necessary to execute the procedure.
 | DESCRIPTION | PRODUCT NAME AND MODEL | MANUFACTURER | QUANTITY | REMARK |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Durable equipment** |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
+| Peristaltic pump with pumphead | Masterflex L/S | Masterflex | 1 | Content Cell |
+| Peristaltic tubing | Puri-Flex Tubing L/S 24 Length 25 feet| Masterflex | Content Cell |
+| Masterflex Adaptor Fittings | Female Luer to Hose Barb | Avantor | 1 bag |
+| Nalgene bottles |1 L Nalgene wide mouth bottles | Thermo Scientific | 2 |Can be substituted with generic |
+| Safety Wash bottles | Safety Wash bottle 250 ml of 10% bleach or 70% Ethanol | VWR | 2 | Can be substituted with generic |
+| Ziplock bags | Plastic bags to store sterile prefilters and to collect used prefilters | Generic | 2 | Can be substituted with generic |
+
 | **Consumable equipment** |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
+| Sterivex | Sterivex HV 0.45 µm Filter unit | Millipore | 1 to 3 | Cannot be substituted for this protocol |
+| Caps for Sterivex | Combi-Cap Syringe Cap | Helapet  | 2 to 6 | Content Cell |
+| Nitril gloves | Powder free nitril gloves | Fisher Scientific | 1 box per size | Can be subsituted with generic nitrile gloves. Does not come sterile, must be sterilized before use (10% bleach followed by 70% EtOH) |
+| Paper towl | paper sheets to wipe material dry | Tork universal | 1 package | Can be substituted with generic |
+| Labels | Cryo lables 33x13mm | Diversified Biotech | 1 package |
+| Field lab sheet | Paper sheet with sample locations | Generic | 1 | Can be substituted with generic; is used to write down sampling date and volume filtered |
+| Writing utensils | Pencil and permanent marker | Generic | 2 | Not made of wood - must be able to be wiped down with bleach/EtOH |
+
 | **Chemicals** |
 | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
 | Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
