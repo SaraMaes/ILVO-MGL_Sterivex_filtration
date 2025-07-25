@@ -150,7 +150,6 @@ Specify how much time is necessary to execute the procedure.
 | Nalgene bottles |1 L Nalgene wide mouth bottles | Thermo Scientific | 2 |Can be substituted with generic |
 | Safety Wash bottles | Safety Wash bottle 250 ml of 10% bleach or 70% Ethanol | VWR | 2 | Can be substituted with generic |
 | Ziplock bags | Plastic bags to store sterile prefilters and to collect used prefilters | Generic | 2 | Can be substituted with generic |
-
 | **Consumable equipment** |
 | Sterivex | Sterivex HV 0.45 µm Filter unit | Millipore | 1 to 3 | Cannot be substituted for this protocol |
 | Caps for Sterivex | Combi-Cap Syringe Cap | Helapet  | 2 to 6 | Content Cell |
@@ -159,7 +158,6 @@ Specify how much time is necessary to execute the procedure.
 | Labels | Cryo lables 33x13mm | Diversified Biotech | 1 package |
 | Field lab sheet | Paper sheet with sample locations | Generic | 1 | Can be substituted with generic; is used to write down sampling date and volume filtered |
 | Writing utensils | Pencil and permanent marker | Generic | 2 | Not made of wood - must be able to be wiped down with bleach/EtOH |
-
 | **Chemicals** |
 | Ethanol absolute | Ethanol absolute | AnalytiChem |5 L| Can be substituted with generic, must be molecular biology grade |
 | Disolol | Disolol Technisolv | AnalytiChem | 5 L | Can be sustituted with generic |
