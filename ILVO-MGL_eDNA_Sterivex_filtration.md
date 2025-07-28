@@ -90,7 +90,7 @@ samp_size_unit: # mL
 |  DNA | Deoxyribonucleic acid  |
 | eDNA | environmental DNA |
 | EtOH | Ethanol |
-| | |
+| PPE| Personal Protective Equipment |
 
 ### Glossary
 
@@ -150,6 +150,8 @@ Specify how much time is necessary to execute the procedure.
 | Nalgene bottles |1 L Nalgene wide mouth bottles | Thermo Scientific | 2 |Can be substituted with generic |
 | Safety Wash bottles | Safety Wash bottle 250 ml of 10% bleach or 70% Ethanol | VWR | 2 | Can be substituted with generic |
 | Ziplock bags | Plastic bags to store sterile prefilters and to collect used prefilters | Generic | 2 | Can be substituted with generic |
+| 1 L Graduate cilinder | VWR | 2 |
+| 2 L Measuring cup | VWR | 1 |
 | Commercial drinking water bottles | 2 L Everyday | Colruyt | 5 per cast + 4 for field controls | Can be substituted with similar clean drinking water bottles  |
 | **Consumable equipment** |
 | Sterivex | Sterivex HV 0.45 µm Filter unit | Millipore | 1 to 3 | Cannot be substituted for this protocol |
@@ -180,12 +182,15 @@ Please specify the preparatory actions you took before you collected the samples
 
 ### Before filtering the water
 
-1. If the watersamples are frozen, get them out of the freezer the evening before you will filter them ans store them at roomtemperature in the dark. 
-2. Prepare Longmire Storage Buffer in a laminar flow cabinet with the following constitution: 100 mM Tris, 100 mM EDTA, 10 mM NaCl. 
-3. Glove Sterilization: Sterile nitrile gloves must be worn at all times during the sterilization, sampling, filtering, preservation and storage steps. Gloves directly from the box are not considered sterile. To sterilize, put on a new pair of gloves, squirt 10% bleach solution from a wash bottle onto the gloves and rub hands together, then squirt with EtOH to get rid of bleach residue.
-4. Fill 1 Nalgene bottles with 10 % Bleach solution.
-5. Benchspace sterilization: Clean the benchspace with 10% bleach, whipe down with a paper towl, then clean the surface with 70% Ethanol and whipe down.
-6. Masterflex tubing sterilization: Install the Masterflex tubings on to the two pumpheads. Attach 2 Masterflex Adaptor Fitting at the left sides of the tubings. Immerse the left endings of the Masterflex tubing into the Nalgene bottle with 10% bleach solution. Immerse the right endings of the Masterflex tubing into the empty Nalgene bottle. Make sure the Masterflex pump pumps from left to the right. Switch on the Masterflex pump and pump 100 ml through the tubing. Get the two endings with the Masterflex Adaptor Fitting out of the bleach and pump until the tubing doesn't contain any bleach anymore. Close the Nalgene bottles. Place the left endings of the Masterfles tubes into 2 commercial drinking water bottles. Pump 100 ml drinking water from the left to the right direction. Empty the tubings and make sure you dont touch the left part of the Masterfles tubes before filtering. 
+1. If the watersamples are frozen, get them out of the freezer the evening before you will filter them and store them at roomtemperature in the dark.
+2. Preprint your labels that you will stick on the Sterivex filter with the unique filtercode.
+3. If there's no freezer available to store the Sterivex filters after filtering the seawater sample, you need to prepare Longmire Storage Buffer in a laminar flow cabinet with the following constitution: 100 mM Tris, 100 mM EDTA, 10 mM NaCl. For 1 Sterivex filter, 2 ml Longmire Storage Buffer is used.
+4. Glove Sterilization: Sterile nitrile gloves must be worn at all times during the sterilization, sampling, filtering, preservation and storage steps. Gloves directly from the box are not considered sterile. To sterilize, put on a new pair of gloves, squirt 10% bleach solution from a wash bottle onto the gloves and rub hands together, then squirt with EtOH to get rid of bleach residue.
+5. Fill 1 Nalgene bottle with 10 % Bleach solution.
+6. Benchspace sterilization: Clean the benchspace with 10% bleach, whipe down with a paper towl, then clean the surface with 70% Ethanol and whipe down.
+7. Masterflex tubing sterilization: Install the Masterflex tubings on to the two pumpheads. Attach 2 Masterflex Adaptor Fitting at the left sides of the tubings. Immerse the left endings of the Masterflex tubing into the Nalgene bottle with 10% bleach solution. Immerse the right endings of the Masterflex tubing into the empty Nalgene bottle. Make sure the Masterflex pump pumps from left to the right. Switch on the Masterflex pump (stand 4) and pump 100 ml through the tubing. Get the two endings with the Masterflex Adaptor Fitting out of the bleach and pump until the tubing doesn't contain any bleach anymore. Close the Nalgene bottles. Place the left endings of the Masterfles tubes into 2 commercial drinking water bottles. Pump 100 ml drinking water from the left to the right direction. Empty the tubings and make sure you dont touch the left part of the Masterflex tubes before filtering.
+8. It's very important that the bottles with your seawater sample are mixed well by inverting them several times before you start filtering!
+9. 
 
 
 ### Sampling : moet dit erbij? Dit alles is weer te vinden in voorgaand protocol
@@ -197,19 +202,20 @@ Please specify how you collected samples and note what equipment you used to do 
 
 ### Filtration
 
-Please specify how you filtered the samples and note what equipment you used to do so (e.g. mixing, volume filtered, size of filter and pores, filtration apparatus, duration of filtration, replication).
+1. Invert the seawater bottle several times before you start filtering.
+2. Please specify how you filtered the samples and note what equipment you used to do so in the eDNA filtering sheet (e.g. mixing, volume filtered, size of filter and pores, filtration apparatus, duration of filtration, replication).
+3. Take out a Sterivex filter from it's package and attach the outlet of the Sterivex filter to the Masterflex Fitting Adaptor. Don't touch the Sterivex with your hands because the Stevivex filter goes into the seawater sample. This to avoid contamination.
+4. Place the inlet of the Sterivex Filter in the seawater sample and  filter 1 L of seawater. Note down the filtered volume. If the Sterivex filter is clogged before 1 L is filtered, you need to filter more water by using a second Sterivex filter until you filtered 1 L volume. Make sure the STerivex fitler is completely dry!
+5. Write down the exact volume of the filtered seawater, use a measuring cup for this.
+6. Label the Sterivex filter with a preprinted sticker.
+7. Close the Sterivex with 2 Combi-Cap Syringe Caps.
 
-1. [Step 1]
-2. [Step 2]
+### Sample Preservation and Storage
 
-### Sample Preservation
+Keep the Stevivex filters in a Ziplock bag in the freezer until further processing.
+If there's no freezer available in the lab or at sea, Longmire's storage buffer needs to be added to the Sterivex filter. This is done by pipetting 2 ml Longmire Storage buffer on the Sterivex filter. Open the inlet cap of the Sterivex, pipet 2 ml Longmire Storage Buffer and close with the Combi-Cap Syringe Cap. Place the Sterivex filters in a Ziplock bag and keep in the dark until further processing.
 
-Please specify what steps you took to preserve the samples taken and note what equipment you used to do so (e.g. freezing in liquid nitrogen).
-
-1. [Step 1]
-2. [Step 2]
-
-### Storage
+### Storage mag weg volgens mij (zie boven)
 
 Please specify how you stored your samples and note what equipment you used to do so (e.g. stored in -80°C freezer).
 
