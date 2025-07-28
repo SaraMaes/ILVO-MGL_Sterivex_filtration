@@ -177,7 +177,7 @@ Provide a step-by-step description of the protocol. The identification of diffic
 
 Please specify the preparatory actions you took before you collected the samples and note what equipment was needed to do so (e.g. disinfection of work surfaces, preparations to the equipment you intend to use later on).
 
-Before filtering the water
+### Before filtering the water
 
 1. If the watersamples are frozen, get them out of the freezer the evening before you will filter them ans store them at roomtemperature in the dark. 
 2. Prepare Longmire Storage Buffer in a laminar flow cabinet with the following constitution: 100 mM Tris, 100 mM EDTA, 10 mM NaCl. 
