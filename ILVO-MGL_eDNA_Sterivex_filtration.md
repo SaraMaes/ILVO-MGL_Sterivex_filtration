@@ -162,10 +162,10 @@ Specify how much time is necessary to execute the procedure.
 | Ethanol absolute | Ethanol absolute | AnalytiChem |5 L| Can be substituted with generic, must be molecular biology grade |
 | Disolol | Disolol Technisolv | AnalytiChem | 5 L | Can be sustituted with generic |
 | 10% bleach | Sodium hypochloride | Colruyt | 2 L| Remake every ~5 days as bleach decomposes quickly at 10% concentration |
-| Tris-HCl pH 8,0 | catno AM9856 | Thermofisher |
-| 0.5 M EDTA pH 8,0 | catno AM9261 | Thermofisher | 
-| 5 M NaCl | catno AM9760G | Thermofisher |
-| UtraPure DNAse/RNAse Free Distilled water | catno 10977035 | Thermofisher |
+| Tris-HCl pH 8,0 | catno AM9856 | Thermofisher | 500 ml |
+| 0.5 M EDTA pH 8,0 | catno AM9261 | Thermofisher | 500 ml |
+| 5 M NaCl | catno AM9760G | Thermofisher | 100 ml |
+| UtraPure DNAse/RNAse Free Distilled water | catno 10977035 | Thermofisher | 500 ml |
 
 ## STANDARD OPERATING PROCEDURE
 
