@@ -152,7 +152,7 @@ Specify how much time is necessary to execute the procedure.
 | Ziplock bags | Plastic bags to store sterile prefilters and to collect used prefilters | Generic | 2 | Can be substituted with generic |
 | 1 L Graduate cilinder | VWR | Generic | 2 |
 | 2 L Measuring cup | VWR | Generic | 1 |
-| Commercial drinking water bottles | 2 L Everyday | Colruyt | 5 per cast + 4 for field controls | Can be substituted with similar clean drinking water bottles  |
+| Commercial drinking water bottles | 2 L Everyday | Colruyt | 6 | Can be substituted with similar clean drinking water bottles  |
 | **Consumable equipment** |
 | Sterivex | Sterivex HV 0.45 µm Filter unit | Millipore | 1 to 3 | Cannot be substituted for this protocol |
 | Caps for Sterivex | Combi-Cap Syringe Cap | Helapet  | 2 to 6 | Content Cell |
