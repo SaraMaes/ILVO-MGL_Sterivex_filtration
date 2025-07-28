@@ -145,7 +145,7 @@ Specify how much time is necessary to execute the procedure.
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Durable equipment** |
 | Peristaltic pump with pumphead | Masterflex L/S | Masterflex | 1 | Content Cell |
-| Peristaltic tubing | Puri-Flex Tubing L/S 24 Length 25 feet| Masterflex | Content Cell |
+| Peristaltic tubing | Puri-Flex Tubing L/S 24 Length 25 feet| Masterflex | 2 |
 | Masterflex Adaptor Fittings | Female Luer to Hose Barb | Avantor | 1 bag |
 | Nalgene bottles |1 L Nalgene wide mouth bottles | Thermo Scientific | 2 |Can be substituted with generic |
 | Safety Wash bottles | Safety Wash bottle 250 ml of 10% bleach or 70% Ethanol | VWR | 2 | Can be substituted with generic |
