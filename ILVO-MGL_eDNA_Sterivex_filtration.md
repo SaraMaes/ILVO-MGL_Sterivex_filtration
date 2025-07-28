@@ -147,7 +147,7 @@ Specify how much time is necessary to execute the procedure.
 | Peristaltic pump with pumphead | Masterflex L/S | Masterflex | 1 | Content Cell |
 | Peristaltic tubing | Puri-Flex Tubing L/S 24 Length 25 feet| Masterflex | 2 |
 | Masterflex Adaptor Fittings | Female Luer to Hose Barb | Avantor | 1 bag |
-| Nalgene bottles |1 L Nalgene wide mouth bottles | Thermo Scientific | 2 |Can be substituted with generic |
+| Nalgene bottles |1 L Nalgene wide mouth bottles | Thermo Scientific | 4 |Can be substituted with generic |
 | Safety Wash bottles | Safety Wash bottle 250 ml of 10% bleach or 70% Ethanol | VWR | 2 | Can be substituted with generic |
 | Ziplock bags | Plastic bags to store sterile prefilters and to collect used prefilters | Generic | 2 | Can be substituted with generic |
 | **Consumable equipment** |
@@ -183,11 +183,8 @@ Please specify the preparatory actions you took before you collected the samples
 2. Prepare Longmire Storage Buffer in a laminar flow cabinet with the following constitution: 100 mM Tris, 100 mM EDTA, 10 mM NaCl. 
 3. Glove Sterilization: Sterile nitrile gloves must be worn at all times during the sterilization, sampling, filtering, preservation and storage steps. Gloves directly from the box are not considered sterile. To sterilize, put on a new pair of gloves, squirt 10% bleach solution from a wash bottle onto the gloves and rub hands together, then squirt with EtOH to get rid of bleach residue.  
 4. Benchspace sterilization: Clean the benchspace with 10% bleach, whipe down with a paper towl, then clean the surface with 70% Ethanol and whipe down.
-5. Masterflex tubing sterilization: Install the Masterflex tubing into the two pumpheads. Attach the Masterflex Adaptor Fitting at the left side of the tubings. 
+5. Masterflex tubing sterilization: Install the Masterflex tubing into the two pumpheads. Attach the Masterflex Adaptor Fitting at the left side of the tubings. Fill 2 Nalgene bottles with 10 % Bleach solution. Immerse the left endings of the Masterflex tubing into the 10% bleach solution. Immerse the right endings of the Masterflex tubing into the empty Nalgene bottles. Make sure the Masterflex pump pumps from left to the right.
 
-1
-1. [Step 1]
-2. [Step 2]
 
 ### Sampling
 
