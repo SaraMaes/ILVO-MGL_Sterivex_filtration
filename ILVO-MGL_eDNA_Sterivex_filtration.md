@@ -213,7 +213,7 @@ Please specify how you collected samples and note what equipment you used to do 
 ### Sample Preservation and Storage
 
 Keep the Stevivex filters in a Ziplock bag in the freezer until further processing.
-If there's no freezer available in the lab or at sea, Longmire's storage buffer needs to be added to the Sterivex filter. This is done by pipetting 2 ml Longmire Storage buffer on the Sterivex filter. Open the inlet cap of the Sterivex, pipet 2 ml Longmire Storage Buffer and close with the Combi-Cap Syringe Cap. Place the Sterivex filters in a Ziplock bag and keep in the dark until further processing.
+If there's no freezer available in the lab or at sea, Longmire's Storage Buffer needs to be added to the Sterivex filter. This is done by pipetting 2 ml Longmire Storage Buffer on the Sterivex filter. Open the inlet cap of the Sterivex, pipet 2 ml Longmire Storage Buffer and close with the Combi-Cap Syringe Cap. Place the Sterivex filters in a Ziplock bag and keep at roomtemperature in the dark until further processing.
 
 ### Storage mag weg volgens mij (zie boven)
 
