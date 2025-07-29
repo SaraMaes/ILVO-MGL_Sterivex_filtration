@@ -144,7 +144,7 @@ Specify how much time is necessary to execute the procedure.
 | DESCRIPTION | PRODUCT NAME AND MODEL | MANUFACTURER | QUANTITY | REMARK |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Durable equipment** |
-| Peristaltic pump with pumphead | Masterflex L/S | Masterflex | 1 | Content Cell |
+| Peristaltic pump with pumphead | Masterflex L/S | Masterflex | 1 | |
 | Peristaltic tubing | Puri-Flex Tubing L/S 24 Length 25 feet| Masterflex | 2 |
 | Masterflex Adaptor Fittings | Female Luer to Hose Barb | Avantor | 1 bag |
 | Nalgene bottles |1 L Nalgene wide mouth bottles | Thermo Scientific | 2 |Can be substituted with generic |
