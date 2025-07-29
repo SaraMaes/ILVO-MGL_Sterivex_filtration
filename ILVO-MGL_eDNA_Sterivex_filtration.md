@@ -185,12 +185,11 @@ Please specify the preparatory actions you took before you collected the samples
 1. If the watersamples are frozen, get them out of the freezer the evening before you will filter them and store them at roomtemperature in the dark.
 2. Preprint your labels that you will stick on the Sterivex filter with the unique filtercode.
 3. If there's no freezer available to store the Sterivex filters after filtering the seawater sample, you need to prepare Longmire Storage Buffer in a laminar flow cabinet with the following constitution: 100 mM Tris, 100 mM EDTA, 10 mM NaCl. For 1 Sterivex filter, 2 ml Longmire Storage Buffer is used.
-4. Glove Sterilization: Sterile nitrile gloves must be worn at all times during the sterilization, sampling, filtering, preservation and storage steps. Gloves directly from the box are not considered sterile. To sterilize, put on a new pair of gloves, squirt 10% bleach solution from a wash bottle onto the gloves and rub hands together, then squirt with EtOH to get rid of bleach residue.
+4. Wear new clean gloves and change gloves in case they get dirty.
 5. Fill 1 Nalgene bottle with 10 % Bleach solution.
 6. Benchspace sterilization: Clean the benchspace with 10% bleach, whipe down with a paper towl, then clean the surface with 70% Ethanol and whipe down.
 7. Masterflex tubing sterilization: Install the Masterflex tubings on to the two pumpheads. Attach 2 Masterflex Adaptor Fitting at the left sides of the tubings. Immerse the left endings of the Masterflex tubing into the Nalgene bottle with 10% bleach solution. Immerse the right endings of the Masterflex tubing into the empty Nalgene bottle. Make sure the Masterflex pump pumps from left to the right. Switch on the Masterflex pump (stand 4) and pump 100 ml through the tubing. Get the two endings with the Masterflex Adaptor Fitting out of the bleach and pump until the tubing doesn't contain any bleach anymore. Close the Nalgene bottles. Place the left endings of the Masterfles tubes into 2 commercial drinking water bottles. Pump 100 ml drinking water from the left to the right direction. Empty the tubings and make sure you dont touch the left part of the Masterflex tubes before filtering.
-8. It's very important that the bottles with your seawater sample are mixed well by inverting them several times before you start filtering!
-9. 
+8. It's very important that the bottles with your seawater sample are mixed well by inverting them several times before you start filtering. 
 
 
 ### Sampling : moet dit erbij? Dit alles is weer te vinden in voorgaand protocol
@@ -206,14 +205,14 @@ Please specify how you collected samples and note what equipment you used to do 
 2. Please specify how you filtered the samples and note what equipment you used to do so in the eDNA filtering sheet (e.g. mixing, volume filtered, size of filter and pores, filtration apparatus, duration of filtration, replication).
 3. Take out a Sterivex filter from it's package and attach the outlet of the Sterivex filter to the Masterflex Fitting Adaptor. Don't touch the Sterivex with your hands because the Stevivex filter goes into the seawater sample. This to avoid contamination.
 4. Place the inlet of the Sterivex Filter in the seawater sample and  filter 1 L of seawater. Note down the filtered volume. If the Sterivex filter is clogged before 1 L is filtered, you need to filter more water by using a second Sterivex filter until you filtered 1 L volume. Make sure the STerivex fitler is completely dry!
-5. Write down the exact volume of the filtered seawater, use a measuring cup for this.
+5. Write down the exact volume of the filtered seawater, use a measuring cup for this. Throw away the seawater.
 6. Label the Sterivex filter with a preprinted sticker.
 7. Close the Sterivex with 2 Combi-Cap Syringe Caps.
 
 ### Sample Preservation and Storage
 
 Keep the Stevivex filters in a Ziplock bag in the freezer until further processing.
-If there's no freezer available in the lab or at sea, Longmire's Storage Buffer needs to be added to the Sterivex filter. This is done by pipetting 2 ml Longmire Storage Buffer on the Sterivex filter. Open the inlet cap of the Sterivex, pipet 2 ml Longmire Storage Buffer and close with the Combi-Cap Syringe Cap. Place the Sterivex filters in a Ziplock bag and keep at roomtemperature in the dark until further processing.
+If there's no freezer available in the lab or on the ROV at sea, Longmire's Storage Buffer needs to be added to the Sterivex filter. This is done by pipetting 2 ml Longmire Storage Buffer on the Sterivex filter. Open the inlet cap of the Sterivex, pipet 2 ml Longmire Storage Buffer on the filter and close with the Combi-Cap Syringe Cap. Place the Sterivex filters in a Ziplock bag and keep at roomtemperature in the dark until further processing.
 
 ### Storage mag weg volgens mij (zie boven)
 
