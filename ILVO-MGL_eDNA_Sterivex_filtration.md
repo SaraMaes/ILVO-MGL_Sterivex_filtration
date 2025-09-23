@@ -94,6 +94,8 @@ samp_size_unit: # mL
 | RV | Research Vessel |
 | m | meter |
 | L | liter |
+| mL | milliliter |
+| mM | millimolar |
 
 ### Glossary
 
@@ -189,20 +191,29 @@ The Niskin carrousel is soaked for 3 minutes on the water surface before going d
 The seawater samples are taken at one meter above the sea surface. It's important that the Niskin carrousel doesn't touch the seafloor! 
 When collecting the water sample, use a clean pre-filter. Collect 5 replicates of 1,5 L. Water samples are stored at -20°C or in the fridge (then they need to be filtered the same day).
 
-### Preparation
+### Preparation of the Masterflex pump
 
-Please specify the preparatory actions you took before you collected the samples and note what equipment was needed to do so (e.g. disinfection of work surfaces, preparations to the equipment you intend to use later on).
+1. Install 2 pump heads to the pump with the adaptor bars.
+2. Open the pump heads and insert around 1 m of tube in each rotor and close them.
+3. Put 2 male luerlock connectors at the outlet end (right side of the tube) of the tubes.
 
+### Preparation of Longmire's Storage Buffer (if needed)
+
+If there's no freezer available to store the Sterivex filters after filtering the seawater sample, you need to prepare Longmire Storage Buffer in a laminar flow cabinet or cleanroom with the following constitution: 100 mM Tris, 100 mM EDTA, 10 mM NaCl. For 1 Sterivex filter, 2 ml Longmire Storage Buffer is used.
+
+### Preparation of the water samples that will be filtered
+
+If the watersamples are frozen, get them out of the freezer the evening before you will filter them and store them at roomtemperature in the dark.
+   
 ### Before filtering the water
 
-1. If the watersamples are frozen, get them out of the freezer the evening before you will filter them and store them at roomtemperature in the dark.
-2. Preprint your labels that you will stick on the Sterivex filter with the unique filtercode.
-3. If there's no freezer available to store the Sterivex filters after filtering the seawater sample, you need to prepare Longmire Storage Buffer in a laminar flow cabinet with the following constitution: 100 mM Tris, 100 mM EDTA, 10 mM NaCl. For 1 Sterivex filter, 2 ml Longmire Storage Buffer is used.
-4. Wear new clean gloves and change gloves in case they get dirty.
-5. Fill 1 Nalgene bottle with 10 % Bleach solution.
-6. Benchspace sterilization: Clean the benchspace with 10% bleach, whipe down with a paper towl, then clean the surface with 70% Ethanol and whipe down.
-7. Masterflex tubing sterilization: Install the Masterflex tubings on to the two pumpheads. Attach 2 Masterflex Adaptor Fitting at the left sides of the tubings. Immerse the left endings of the Masterflex tubing into the Nalgene bottle with 10% bleach solution. Immerse the right endings of the Masterflex tubing into the empty Nalgene bottle. Make sure the Masterflex pump pumps from left to the right. Switch on the Masterflex pump (stand 4) and pump 100 ml through the tubing. Get the two endings with the Masterflex Adaptor Fitting out of the bleach and pump until the tubing doesn't contain any bleach anymore. Close the Nalgene bottles. Place the left endings of the Masterfles tubes into 2 commercial drinking water bottles. Pump 100 ml drinking water from the left to the right direction. Empty the tubings and make sure you dont touch the left part of the Masterflex tubes before filtering.
-8. It's very important that the bottles with your seawater sample are mixed well by inverting them several times before you start filtering. 
+1. Preprint your labels that you will stick on the Sterivex filter with the unique filtercode.
+2.
+3. Wear new clean gloves and change gloves in case they get dirty.
+4. Fill 1 Nalgene bottle with 10 % Bleach solution.
+5. Benchspace sterilization: Clean the benchspace with 10% bleach, whipe down with a paper towl, then clean the surface with 70% Ethanol and whipe down.
+6. Masterflex tubing sterilization: Install the Masterflex tubings on to the two pumpheads. Attach 2 Masterflex Adaptor Fitting at the left sides of the tubings. Immerse the left endings of the Masterflex tubing into the Nalgene bottle with 10% bleach solution. Immerse the right endings of the Masterflex tubing into the empty Nalgene bottle. Make sure the Masterflex pump pumps from left to the right. Switch on the Masterflex pump (stand 4) and pump 100 ml through the tubing. Get the two endings with the Masterflex Adaptor Fitting out of the bleach and pump until the tubing doesn't contain any bleach anymore. Close the Nalgene bottles. Place the left endings of the Masterfles tubes into 2 commercial drinking water bottles. Pump 100 ml drinking water from the left to the right direction. Empty the tubings and make sure you dont touch the left part of the Masterflex tubes before filtering.
+7. It's very important that the bottles with your seawater sample are mixed well by inverting them several times before you start filtering. 
 
 ### Filtration
 
