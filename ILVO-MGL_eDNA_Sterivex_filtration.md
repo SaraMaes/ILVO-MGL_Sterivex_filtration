@@ -93,6 +93,7 @@ samp_size_unit: # mL
 | PPE| Personal Protective Equipment |
 | RV | Research Vessel |
 | m | meter |
+| µm | micrometer | 
 | L | liter |
 | mL | milliliter |
 | mM | millimolar |
@@ -124,7 +125,7 @@ If applicable, please specify the region where the protocol is applied. For regi
 
 ## PERSONNEL REQUIRED
 
-One technician or scientist with experience in sterile and clean working in a drylab.
+One technician or scientist with experience in sterile and clean working in a dry lab.
 
 ### Safety
 
@@ -150,6 +151,7 @@ Specify how much time is necessary to execute the procedure.
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Durable equipment** |
 | Peristaltic pump with pumphead | Masterflex L/S | Masterflex | 1 | |
+| Curver box | 
 | Peristaltic tubing | Puri-Flex Tubing L/S 24 Length 25 feet| Masterflex | 2 |
 | Masterflex Adaptor Fittings | Male Luer to Hose Barb | Masterflex | 1 bag |
 | Nalgene bottles | 1 L Nalgene wide mouth bottles | Thermo Scientific | 2 |Can be substituted with generic |
@@ -169,7 +171,7 @@ Specify how much time is necessary to execute the procedure.
 | **Chemicals** |
 | Ethanol absolute | Ethanol absolute | AnalytiChem |5 L| Can be substituted with generic, must be molecular biology grade |
 | Disolol | Disolol Technisolv | AnalytiChem | 5 L | Can be sustituted with generic |
-| 10% bleach | Sodium hypochloride | Colruyt | 2 L| Remake every ~5 days as bleach decomposes quickly at 10% concentration |
+| bleach | Sodium hypochloride | Colruyt | 2 L| Remake every ~5 days as bleach decomposes quickly at 10% concentration |
 | Tris-HCl pH 8,0 | catno AM9856 | Thermofisher | 500 ml |
 | 0.5 M EDTA pH 8,0 | catno AM9261 | Thermofisher | 500 ml |
 | 5 M NaCl | catno AM9760G | Thermofisher | 100 ml |
@@ -183,23 +185,32 @@ Provide a step-by-step description of the protocol. The identification of diffic
 
 ### Sampling seawater samples
 
-Please specify how you collected samples and note what equipment you used to do so (e.g. targeted water mass, volume, sampling equipment, replication).
-
 To collect water samples, use 1,5 L commercial drinking water bottles and clean pre-filters.
-For each location where watersamples are collected, 5 replicates.
-The Niskin carrousel is soaked for 3 minutes on the water surface before going down. Each day, two negative field samples are collected by pooring the contect of one bottle drinking water and also open one water bottle in the morning and leave it open on deck near the fishing nets. In the evening the bottle we be closed and filtered.  Ideally these negative control samples do not contain eDNA.  
+For each location where watersamples are collected, 5 replicates are taken.
+The Niskin carrousel is soaked for 3 minutes on the water surface before going down. Each day, two negative field samples are collected by pooring the contect of one bottle drinking water and also open one water bottle in the morning and leave it open on deck near the fishing nets. In the evening the bottle we be closed and filtered. Ideally these negative control samples do not contain eDNA.  
 The seawater samples are taken at one meter above the sea surface. It's important that the Niskin carrousel doesn't touch the seafloor! 
-When collecting the water sample, use a clean pre-filter. Collect 5 replicates of 1,5 L. Water samples are stored at -20°C or in the fridge (then they need to be filtered the same day).
+When collecting the water sample, use a clean pre-filter. Collect 5 replicates of 1,5 L. Water samples are stored at -20°C or in the fridge (then they need to be filtered the same day). On every location, take a picture of the 5 water bottles.
 
 ### Preparation of the Masterflex pump
 
-1. Install 2 pump heads to the pump with the adaptor bars.
-2. Open the pump heads and insert around 1 m of tube in each rotor and close them.
-3. Put 2 male luerlock connectors at the outlet end (right side of the tube) of the tubes.
+1. Clean the bench with 10% bleach, wipe down and clean with 70% EtOH and whipe down.
+2. Place the Masterflex pump on an inverted curverbox. This is easier to work with the water bottles and beakers.
+3. Install the 2 pump heads on to the pump by using the adaptor bars.
+4. Open the pump heads and insert around 1 m of tube in each rotor and if check both endings of the tubes have the same lenght.
+5. Close the pumpheads.
+6. Put 2 male luerlock connectors at the outlet end (right side of the tube) of the tubes.
 
 ### Preparation of Longmire's Storage Buffer (if needed)
 
 If there's no freezer available to store the Sterivex filters after filtering the seawater sample, you need to prepare Longmire Storage Buffer in a laminar flow cabinet or cleanroom with the following constitution: 100 mM Tris, 100 mM EDTA, 10 mM NaCl. For 1 Sterivex filter, 2 ml Longmire Storage Buffer is used.
+
+### Preparation of 10% bleach solution
+
+Dillute the commercial bleach solution 10 times with UltraPure water and store this 10% bleach solution in a container labeld with the correct safety symbols. 
+
+### Preparation of 70% EtOH solution
+
+Make a 70% solution of the commercial Disolol with UltraPure water and store this 70% solution in a safety bottle labeld with the correct safety symbols
 
 ### Preparation of the water samples that will be filtered
 
@@ -207,12 +218,11 @@ If the watersamples are frozen, get them out of the freezer the evening before y
    
 ### Before filtering the water
 
-1. Preprint your labels that you will stick on the Sterivex filter with the unique filtercode.
-2.
-3. Wear new clean gloves and change gloves in case they get dirty.
+1. Preprint your cryolabels that you will stick on the S Stervex filters with the unique filtercode.
+2. Wear new clean gloves and change gloves in case they get dirty.
 4. Fill 1 Nalgene bottle with 10 % Bleach solution.
 5. Benchspace sterilization: Clean the benchspace with 10% bleach, whipe down with a paper towl, then clean the surface with 70% Ethanol and whipe down.
-6. Masterflex tubing sterilization: Install the Masterflex tubings on to the two pumpheads. Attach 2 Masterflex Adaptor Fitting at the left sides of the tubings. Immerse the left endings of the Masterflex tubing into the Nalgene bottle with 10% bleach solution. Immerse the right endings of the Masterflex tubing into the empty Nalgene bottle. Make sure the Masterflex pump pumps from left to the right. Switch on the Masterflex pump (stand 4) and pump 100 ml through the tubing. Get the two endings with the Masterflex Adaptor Fitting out of the bleach and pump until the tubing doesn't contain any bleach anymore. Close the Nalgene bottles. Place the left endings of the Masterfles tubes into 2 commercial drinking water bottles. Pump 100 ml drinking water from the left to the right direction. Empty the tubings and make sure you dont touch the left part of the Masterflex tubes before filtering.
+6. Immerse the left endings of the Masterflex tubings into the Nalgene bottle with 10% bleach solution. Immerse the right endings of the Masterflex tubing into the empty Nalgene bottle. Make sure the Masterflex pump pumps from left to the right. Switch on the Masterflex pump (stand 4) and pump 100 ml through the tubing. Stop pumping and leave the 10% bleach solution for 5 minutes in the tubings. Set a timer to track time. Switch on the pump again after those 5 minutes and out of the bleach and pump until the tubing doesn't contain any bleach anymore. Close the Nalgene bottles. Place the two left endings of the Masterfles tubes into 2 commercial drinking water bottles. Place the 2 right endings of the tubes in an empty beaker to collect the waste water. Pump 100 ml drinking water from the left to the right direction. Empty the tubings and make sure you dont touch the left part of the Masterflex tubes before filtering.
 7. It's very important that the bottles with your seawater sample are mixed well by inverting them several times before you start filtering. 
 
 ### Filtration
