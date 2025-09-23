@@ -92,6 +92,8 @@ samp_size_unit: # mL
 | EtOH | Ethanol |
 | PPE| Personal Protective Equipment |
 | RV | Research Vessel |
+| m | meter |
+| L | liter |
 
 ### Glossary
 
@@ -120,15 +122,15 @@ If applicable, please specify the region where the protocol is applied. For regi
 
 ## PERSONNEL REQUIRED
 
-Insert the number of technicians, data managers, and scientists required for the good execution of the procedure
+One technician or scientist with experience in sterile and clean working in a drylab.
 
 ### Safety
 
-Identify hazards associated with the procedure and specify protective equipment and safety training required to safely execute the procedure
+Standard precautions including wearing PPE should be taken to avoid skin and eye exposure to bleach and EtOH. 
 
 ### Training Requirements
 
-Specify technical training required for the good execution of the procedure.
+Specify technical training required for the good execution of the procedure in the lab.
 
 ### Time Needed to Execute the Procedure
 
@@ -181,9 +183,9 @@ Provide a step-by-step description of the protocol. The identification of diffic
 
 Please specify how you collected samples and note what equipment you used to do so (e.g. targeted water mass, volume, sampling equipment, replication).
 
-To collect water samples, use 1,5l commercial drinkingwater bottles and clean pre-filters.
+To collect water samples, use 1,5l commercial drinking water bottles and clean pre-filters.
 
-1. For each location where watersamples are collected, 5 replicates are taken with the Niskin carrousel on a Research Vessel at 1 meter above the sea surface. The Niskin carrousel is soaked for 3 minutes on the          water surface before going down. The seawater samples are taken at one meter above the sea surface. It's important that the Niskin carrousel doesn't touch the seafloor! When collecting the water sample, use a clean pre-filter. Collect 5 replicates of 1l.
+1. For each location where watersamples are collected, 5 replicates are taken with the Niskin carrousel on a Research Vessel at 1 meter above the sea surface. Each day, two negative field samples are collected by pooring the contect of one bottle drinking water into a empty bottle of seawater holdig a pre-filter in between. The Niskin carrousel is soaked for 3 minutes on the water surface before going down. The seawater samples are taken at one meter above the sea surface. It's important that the Niskin carrousel doesn't touch the seafloor! When collecting the water sample, use a clean pre-filter. Collect 5 replicates of 1l.
 2. Open the tap of the Niskin bottles and  
 
 Each day two field negative samples will be collected to check for possible contaminations on board of the Research Vessel. At 5 locations 1 Niskin bottle will be rinsed with drinkingwater, afterwards the bottom of the Niskin bottle will be closed and second bottle with drinkingwater is emptied inside the Niskin bottle. Then the Niskin bottle will be close than the negative control sample is collected through the tap into a 1,5L waterbottle..  Each day we will also open one waterbottle in the morning and leave it open on deck near the fishing nets. In the evening the bottle we be closed and filtered. Each day we will also collect filter negative samples: 1L drinkingwater is filtered. Ideally these negative control samples do not contain eDNA. 
