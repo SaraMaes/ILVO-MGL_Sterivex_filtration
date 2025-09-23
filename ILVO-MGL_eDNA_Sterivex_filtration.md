@@ -177,6 +177,16 @@ In the following SOP, please use the exact names of equipment as noted in the ta
 
 Provide a step-by-step description of the protocol. The identification of difficult steps in the protocol and the provision of recommendations for the execution of those steps are encouraged.
 
+### Sampling seawater samples
+
+Please specify how you collected samples and note what equipment you used to do so (e.g. targeted water mass, volume, sampling equipment, replication).
+
+To collect water samples, use 1,5l commercial drinkingwater bottles and clean pre-filters.
+
+1. For each location where watersamples are collected, 5 replicates are taken with the Niskin carrousel on a Research Vessel at 1 meter above the sea surface. The Niskin carrousel is soaked for 3 minutes on the          water surface before going down. The seawater samples are taken at one meter above the sea surface. It's important that the Niskin carrousel doesn't touch the seafloor! When collecting the water sample, use a clean pre-filter. Collect 5 replicates of 1l.
+2. Open the tap of the Niskin bottles and  
+
+Each day two field negative samples will be collected to check for possible contaminations on board of the Research Vessel. At 5 locations 1 Niskin bottle will be rinsed with drinkingwater, afterwards the bottom of the Niskin bottle will be closed and second bottle with drinkingwater is emptied inside the Niskin bottle. Then the Niskin bottle will be close than the negative control sample is collected through the tap into a 1,5L waterbottle..  Each day we will also open one waterbottle in the morning and leave it open on deck near the fishing nets. In the evening the bottle we be closed and filtered. Each day we will also collect filter negative samples: 1L drinkingwater is filtered. Ideally these negative control samples do not contain eDNA. 
 ### Preparation
 
 Please specify the preparatory actions you took before you collected the samples and note what equipment was needed to do so (e.g. disinfection of work surfaces, preparations to the equipment you intend to use later on).
@@ -192,14 +202,6 @@ Please specify the preparatory actions you took before you collected the samples
 7. Masterflex tubing sterilization: Install the Masterflex tubings on to the two pumpheads. Attach 2 Masterflex Adaptor Fitting at the left sides of the tubings. Immerse the left endings of the Masterflex tubing into the Nalgene bottle with 10% bleach solution. Immerse the right endings of the Masterflex tubing into the empty Nalgene bottle. Make sure the Masterflex pump pumps from left to the right. Switch on the Masterflex pump (stand 4) and pump 100 ml through the tubing. Get the two endings with the Masterflex Adaptor Fitting out of the bleach and pump until the tubing doesn't contain any bleach anymore. Close the Nalgene bottles. Place the left endings of the Masterfles tubes into 2 commercial drinking water bottles. Pump 100 ml drinking water from the left to the right direction. Empty the tubings and make sure you dont touch the left part of the Masterflex tubes before filtering.
 8. It's very important that the bottles with your seawater sample are mixed well by inverting them several times before you start filtering. 
 
-
-### Sampling : moet dit erbij? Dit alles is weer te vinden in voorgaand protocol
-
-Please specify how you collected samples and note what equipment you used to do so (e.g. targeted water mass, volume, sampling equipment, replication).
-
-1. [Step 1]
-2. [Step 2]
-
 ### Filtration
 
 1. Invert the seawater bottle several times before you start filtering.
@@ -210,10 +212,10 @@ Please specify how you collected samples and note what equipment you used to do 
 6. Label the Sterivex filter with a preprinted sticker.
 7. Close the Sterivex with 2 Combi-Cap Syringe Caps.
 
-### Sample Preservation and Storage
+### Storage and sample preservation
 
-Keep the Stevivex filters in a Ziplock bag in the freezer until further processing.
-If there's no freezer available in the lab or on the ROV at sea, Longmire's Storage Buffer needs to be added to the Sterivex filter. This is done by pipetting 2 ml Longmire Storage Buffer on the Sterivex filter. Open the inlet cap of the Sterivex, pipet 2 ml Longmire Storage Buffer on the filter and close with the Combi-Cap Syringe Cap. Place the Sterivex filters in a Ziplock bag and keep at roomtemperature in the dark until further processing.
+1. If the Sterivex filters can be stored in the freezer, place the Stevivex filters in a good labeled Ziplock bags in the freezer until further processing.
+2. If there's no freezer available, 2 ml of Longmire's Storage Buffer needs to be added with to the Sterivex filter. This is done by pipetting 2 ml Longmire's Storage Buffer on the Sterivex filter by using P200. Open the inlet cap of the Sterivex, pipet 2 ml Longmire Storage Buffer on the filter and close with the Combi-Cap Syringe Cap. Place the Sterivex filters in a Ziplock bag and keep at roomtemperature in the dark until further processing.
 
 ### Storage mag weg volgens mij (zie boven)
 
