@@ -149,8 +149,8 @@ Specify how much time is necessary to execute the procedure.
 | **Durable equipment** |
 | Peristaltic pump with pumphead | Masterflex L/S | Masterflex | 1 | |
 | Peristaltic tubing | Puri-Flex Tubing L/S 24 Length 25 feet| Masterflex | 2 |
-| Masterflex Adaptor Fittings | Female Luer to Hose Barb | Avantor | 1 bag |
-| Nalgene bottles |1 L Nalgene wide mouth bottles | Thermo Scientific | 2 |Can be substituted with generic |
+| Masterflex Adaptor Fittings | Male Luer to Hose Barb | Masterflex | 1 bag |
+| Nalgene bottles | 1 L Nalgene wide mouth bottles | Thermo Scientific | 2 |Can be substituted with generic |
 | Safety Wash bottles | Safety Wash bottle 250 ml of 10% bleach or 70% Ethanol | VWR | 2 | Can be substituted with generic |
 | Ziplock bags | Plastic bags to store sterile prefilters and to collect used prefilters | Generic | 2 | Can be substituted with generic |
 | 1 L Graduate cilinder | VWR | Generic | 2 |
@@ -183,12 +183,12 @@ Provide a step-by-step description of the protocol. The identification of diffic
 
 Please specify how you collected samples and note what equipment you used to do so (e.g. targeted water mass, volume, sampling equipment, replication).
 
-To collect water samples, use 1,5l commercial drinking water bottles and clean pre-filters.
+To collect water samples, use 1,5 L commercial drinking water bottles and clean pre-filters.
+For each location where watersamples are collected, 5 replicates.
+The Niskin carrousel is soaked for 3 minutes on the water surface before going down. Each day, two negative field samples are collected by pooring the contect of one bottle drinking water and also open one water bottle in the morning and leave it open on deck near the fishing nets. In the evening the bottle we be closed and filtered.  Ideally these negative control samples do not contain eDNA.  
+The seawater samples are taken at one meter above the sea surface. It's important that the Niskin carrousel doesn't touch the seafloor! 
+When collecting the water sample, use a clean pre-filter. Collect 5 replicates of 1,5 L. Water samples are stored at -20°C or in the fridge (then they need to be filtered the same day).
 
-1. For each location where watersamples are collected, 5 replicates are taken with the Niskin carrousel on a Research Vessel at 1 meter above the sea surface. Each day, two negative field samples are collected by pooring the contect of one bottle drinking water into a empty bottle of seawater holdig a pre-filter in between. The Niskin carrousel is soaked for 3 minutes on the water surface before going down. The seawater samples are taken at one meter above the sea surface. It's important that the Niskin carrousel doesn't touch the seafloor! When collecting the water sample, use a clean pre-filter. Collect 5 replicates of 1l.
-2. Open the tap of the Niskin bottles and  
-
-Each day two field negative samples will be collected to check for possible contaminations on board of the Research Vessel. At 5 locations 1 Niskin bottle will be rinsed with drinkingwater, afterwards the bottom of the Niskin bottle will be closed and second bottle with drinkingwater is emptied inside the Niskin bottle. Then the Niskin bottle will be close than the negative control sample is collected through the tap into a 1,5L waterbottle..  Each day we will also open one waterbottle in the morning and leave it open on deck near the fishing nets. In the evening the bottle we be closed and filtered. Each day we will also collect filter negative samples: 1L drinkingwater is filtered. Ideally these negative control samples do not contain eDNA. 
 ### Preparation
 
 Please specify the preparatory actions you took before you collected the samples and note what equipment was needed to do so (e.g. disinfection of work surfaces, preparations to the equipment you intend to use later on).
