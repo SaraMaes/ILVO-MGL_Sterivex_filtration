@@ -171,7 +171,7 @@ Specify how much time is necessary to execute the procedure.
 | **Chemicals** |
 | Ethanol absolute | Ethanol absolute | AnalytiChem |5 L| Can be substituted with generic, must be molecular biology grade |
 | Disolol | Disolol Technisolv | AnalytiChem | 5 L | Can be sustituted with generic |
-| bleach | Sodium hypochloride | Colruyt | 2 L| Remake every ~5 days as bleach decomposes quickly at 10% concentration |
+| Bleach | Sodium hypochloride | Colruyt | 2 L| Remake every ~5 days as bleach decomposes quickly at 10% concentration |
 | Tris-HCl pH 8,0 | catno AM9856 | Thermofisher | 500 ml |
 | 0.5 M EDTA pH 8,0 | catno AM9261 | Thermofisher | 500 ml |
 | 5 M NaCl | catno AM9760G | Thermofisher | 100 ml |
@@ -189,7 +189,7 @@ To collect water samples, use 1,5 L commercial drinking water bottles and clean 
 For each location where watersamples are collected, 5 replicates are taken.
 The Niskin carrousel is soaked for 3 minutes on the water surface before going down. Each day, two negative field samples are collected by pooring the contect of one bottle drinking water and also open one water bottle in the morning and leave it open on deck near the fishing nets. In the evening the bottle we be closed and filtered. Ideally these negative control samples do not contain eDNA.  
 The seawater samples are taken at one meter above the sea surface. It's important that the Niskin carrousel doesn't touch the seafloor! 
-When collecting the water sample, use a clean pre-filter. Collect 5 replicates of 1,5 L. Water samples are stored at -20°C or in the fridge (then they need to be filtered the same day). On every location, take a picture of the 5 water bottles.
+When collecting the water sample, use a clean pre-filter. Collect 5 replicates of 1,5 L. Water samples are stored at -20°C or in the fridge (then they need to be filtered the same day). On every location, take a picture of the 5 water bottles. It's very important that the bottles with your seawater sample are mixed well by inverting them several times before you start filtering. 
 
 ### Preparation of the Masterflex pump
 
@@ -214,28 +214,40 @@ Make a 70% solution of the commercial Disolol with UltraPure water and store thi
 
 ### Preparation of the water samples that will be filtered
 
-If the watersamples are frozen, get them out of the freezer the evening before you will filter them and store them at roomtemperature in the dark.
+If the water samples are frozen, get them out of the freezer the evening before you will filter them and store them at roomtemperature in the dark.
+Be carefull because the floor gets wet!
    
 ### Before filtering the water
 
-1. Preprint your cryolabels that you will stick on the S Stervex filters with the unique filtercode.
+1. Preprint your cryolabels that you will stick on the Stervex filters with the unique filtercode.
 2. Wear new clean gloves and change gloves in case they get dirty.
 4. Fill 1 Nalgene bottle with 10 % Bleach solution.
-5. Benchspace sterilization: Clean the benchspace with 10% bleach, whipe down with a paper towl, then clean the surface with 70% Ethanol and whipe down.
-6. Immerse the left endings of the Masterflex tubings into the Nalgene bottle with 10% bleach solution. Immerse the right endings of the Masterflex tubing into the empty Nalgene bottle. Make sure the Masterflex pump pumps from left to the right. Switch on the Masterflex pump (stand 4) and pump 100 ml through the tubing. Stop pumping and leave the 10% bleach solution for 5 minutes in the tubings. Set a timer to track time. Switch on the pump again after those 5 minutes and out of the bleach and pump until the tubing doesn't contain any bleach anymore. Close the Nalgene bottles. Place the two left endings of the Masterfles tubes into 2 commercial drinking water bottles. Place the 2 right endings of the tubes in an empty beaker to collect the waste water. Pump 100 ml drinking water from the left to the right direction. Empty the tubings and make sure you dont touch the left part of the Masterflex tubes before filtering.
-7. It's very important that the bottles with your seawater sample are mixed well by inverting them several times before you start filtering. 
+5. Benchspace sterilization: clean the benchspace with 10% bleach, whipe down with a paper towl, then clean the surface with 70% Ethanol and whipe down.
+
+### Cleaning the Masterflex tubings
+
+1. Immerse the left endings of the Masterflex tubings into the Nalgene bottle with 10% bleach solution. Immerse the right endings of the Masterflex tubing into the empty Nalgene bottle. Make sure the Masterflex pump pumps from left to the right. Switch on the Masterflex pump (stand 4) and pump 100 ml through the tubing. Stop pumping and leave the 10% bleach solution for 5 minutes in the tubings. Set a timer to track time. Switch on the pump back on after the 5 minutes incubation. Take the tubes out of the 10% bleach solution and pump until the tubing doesn't contain any bleach anymore. Close the Nalgene bottles containing the 10 bleach. Place the two left endings of the Masterfles tubes into 2 commercial drinking water bottles. Place the 2 right endings of the tubes in an empty beaker to collect the waste water. Pump 100 ml drinking water from the left to the right direction. Empty the tubings and make sure you dont touch the Masterflex tubes. Through away the waste water in the sink.
+2. It's very important that the bottles of seawater sample are mixed well by inverting them several times before you start filtering.
+3. If you filter watersamples woming from the same location, you don't need to clean the tubings.
+4. If you start filtering water samples taken in another location, cleaning of the tubes is obliged to avoid contamination. 
+5. Each day that you filter, filter also 1 liter of commercial drinking water as negative filter control.
 
 ### Filtration
 
-1. Invert the seawater bottle several times before you start filtering.
-2. Please specify how you filtered the samples and note what equipment you used to do so in the eDNA filtering sheet (e.g. mixing, volume filtered, size of filter and pores, filtration apparatus, duration of filtration, replication).
-3. Take out a Sterivex filter from it's package and attach the outlet of the Sterivex filter to the Masterflex Fitting Adaptor. Don't touch the Sterivex with your hands because the Stevivex filter goes into the seawater sample. This to avoid contamination.
-4. Place the inlet of the Sterivex Filter in the seawater sample and  filter 1 L of seawater. Note down the filtered volume. If the Sterivex filter is clogged before 1 L is filtered, you need to filter more water by using a second Sterivex filter until you filtered 1 L volume. Make sure the STerivex fitler is completely dry!
-5. Write down the exact volume of the filtered seawater, use a measuring cup for this. Throw away the seawater.
-6. Label the Sterivex filter with a preprinted sticker.
-7. Close the Sterivex with 2 Combi-Cap Syringe Caps.
+1. Clean the benchspace with 10% bleach, whipe down with a paper towl, then clean the surface with 70% Ethanol and whipe down.
+2. Invert the seawater bottle several times before you start filtering so it's will mixed.
+3. Please specify how you filtered the samples and note what equipment you used to do so in the eDNA filtering sheet (e.g. mixing, volume filtered, size of filter and pores, filtration apparatus, duration of filtration, replication)
+4. Take out 2 Sterivex filters from it's package and attach them to the to the Masterflex Fitting Adaptor at the right side of the tubings. Don't touch the Sterivex with your hands.
+5. Place the inlet of the tubing in the water sample an place the outlet of the Sterivex Filter in an empty beaker and  filter 1 L of seawater.
+6. Filter 1 liter of water through the Sterivex filter. Note down the filtered volume. If the Sterivex filter is clogged before 1 L is filtered, you need to filter more water by using a second Sterivex filter until your filtered 1 L volume of that location is 1 liter.
+7. Take out the right side of the tubing out of the water bottles and leave the pump on untill the Sterivex filter is completely dry!
+8. Detach the Sterivex filters from the tubings and close the Sterivex filters with the caps.
+9. Write down the exact volume of the filtered seawater, use a measuring cup for this. Throw away the seawater in the sink.
+10. Label the Sterivex filter with a preprinted sticker.
+11. Place the Sterivex filters in a ziplock bag.
+12. Through away the rest of the water sample in the sinck and put the plastic bottle in the PMD sac.
 
-### Storage and sample preservation
+### Storage and sample preservation of the Sterivex filter
 
 1. If the Sterivex filters can be stored in the freezer, place the Stevivex filters in a good labeled Ziplock bags in the freezer until further processing.
 2. If there's no freezer available, 2 ml of Longmire's Storage Buffer needs to be added with to the Sterivex filter. This is done by pipetting 2 ml Longmire's Storage Buffer on the Sterivex filter by using P200. Open the inlet cap of the Sterivex, pipet 2 ml Longmire Storage Buffer on the filter and close with the Combi-Cap Syringe Cap. Place the Sterivex filters in a Ziplock bag and keep at roomtemperature in the dark until further processing.
