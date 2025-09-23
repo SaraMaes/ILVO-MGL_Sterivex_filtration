@@ -151,7 +151,7 @@ Specify how much time is necessary to execute the procedure.
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Durable equipment** |
 | Peristaltic pump with pumphead | Masterflex L/S | Masterflex | 1 | |
-| Curver box | 
+| Curver box | Action | Generic ||
 | Peristaltic tubing | Puri-Flex Tubing L/S 24 Length 25 feet| Masterflex | 2 |
 | Masterflex Adaptor Fittings | Male Luer to Hose Barb | Masterflex | 1 bag |
 | Nalgene bottles | 1 L Nalgene wide mouth bottles | Thermo Scientific | 2 |Can be substituted with generic |
